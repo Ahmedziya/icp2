@@ -1,0 +1,2 @@
+learning : 1python
+ : 2because : 1best : 1language : 1is : 1
